@@ -1,6 +1,9 @@
 
 > Open this page at [https://elalae.github.io/dice_microbit/](https://elalae.github.io/dice_microbit/)
 
+## Instructions
+* Shake the microcontroller to see a new value of the dice
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
